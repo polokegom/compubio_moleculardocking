@@ -1,1 +1,1 @@
-This is a project built to optimise drug discovery using Machine Learning techniques (such as graph neural networks, etc)  
+This project is built to test optimisation strategies for drug discovery using Machine Learning techniques (such as graph neural networks, etc)  
