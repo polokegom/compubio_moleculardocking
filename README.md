@@ -1,1 +1,1 @@
-This project is built to test various approaches for drug discovery (Note: I'm just experimenting with my code, I just like biology) using Machine Learning techniques (such as graph neural networks, etc)  
+This project is built to test various approaches for drug discovery (Note: I'm just experimenting with my code; plus, biology is kinda cool) using Machine Learning techniques (such as graph neural networks, etc)  
